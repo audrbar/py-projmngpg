@@ -19,9 +19,9 @@ def main():
     person_task_table = PersonTask()
     person_task_table.create_table()
     # persons_table.append_data(persons_list)
-    projects_table.append_data(projects_list)
-    tasks_table.append_data(tasks_list)
-    person_task_table.append_data(person_task_list)
+    # projects_table.append_data(projects_list)
+    # tasks_table.append_data(tasks_list)
+    # person_task_table.append_data(person_task_list)
 
 
 if __name__ == "__main__":
